@@ -4,7 +4,7 @@ Hi, I'm Ben Raymond Aniasco, a passionate web developer and problem-solver with 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bintooot18) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](www.linkedin.com/in/ben-raymond-aniasco-381523334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ben-raymond-aniasco-381523334)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/raammm03/)
 
 # 💻 Tech Stack:
